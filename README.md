@@ -38,13 +38,13 @@ To run this project locally:
    git clone https://github.com/sulemanahmadzai/simon-says-game.git
    Open index.html in your web browser.
 ## How to Play
-- **Start the game by pressing any key.
-- **Watch the sequence of colors highlighted by the game.
-- **Repeat the sequence by clicking the corresponding color buttons in the correct order.
-- **Each time you successfully replicate the sequence, the sequence lengthens by one.
-- **The game ends when you press the wrong color, and your score will be displayed.
-- **Contributing
-- **Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change. Please ensure to update tests as appropriate.
+- Start the game by pressing any key.
+- Watch the sequence of colors highlighted by the game.
+- Repeat the sequence by clicking the corresponding color buttons in the correct order.
+- Each time you successfully replicate the sequence, the sequence lengthens by one.
+- The game ends when you press the wrong color, and your score will be displayed.
+- Contributing
+- Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change. Please ensure to update tests as appropriate.
 
 
 
