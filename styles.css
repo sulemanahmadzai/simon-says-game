@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  font-family: sans-serif;
+}
+h1,
+h3 {
+  text-align: center;
+  margin-top: 14px;
+}
+.container {
+  margin-top: 30px;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+.innerContainer {
+  width: 30vw;
+  height: 55svh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.divs {
+  height: 150px;
+  width: 150px;
+  border: 5px solid black;
+
+  border-radius: 50px;
+}
+.red {
+  background-color: red;
+}
+.blue {
+  background-color: blue;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.flash {
+  background-color: white;
+}
